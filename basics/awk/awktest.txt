@@ -1,0 +1,3 @@
+something to test printing
+mooore
+i am the awktest.txt file btw
